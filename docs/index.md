@@ -1,6 +1,5 @@
 ---
 title: Snippetry Support
-permalink: /
 ---
 
 # Snippetry Support
