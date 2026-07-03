@@ -16,11 +16,11 @@ Email us at **[snippetryapp@gmail.com](mailto:snippetryapp@gmail.com)** and we'l
 
 ### Where are my snippets stored?
 
-On your Mac, in the app's local storage, and — if you're signed into iCloud with iCloud Drive enabled for Snippetry — synced to your personal iCloud account. See the [Privacy Policy](/privacy/) for details.
+On your Mac, in the app's local storage, and — if you're signed into iCloud with iCloud Drive enabled for Snippetry — synced to your personal iCloud account. See the [Privacy Policy]({{ '/privacy/' | relative_url }}) for details.
 
 ### Can the developer see my snippets?
 
-No. Snippetry has no analytics, tracking, or third-party services. Your data lives on your device and in your private iCloud account, which the developer cannot access. See the [Privacy Policy](/privacy/).
+No. Snippetry has no analytics, tracking, or third-party services. Your data lives on your device and in your private iCloud account, which the developer cannot access. See the [Privacy Policy]({{ '/privacy/' | relative_url }}).
 
 ### My snippets aren't syncing between devices. What can I do?
 
@@ -36,4 +36,4 @@ Your snippets sync to your private iCloud account automatically when iCloud is e
 
 ## Privacy
 
-Snippetry does not collect, transmit, or have access to any of your data. Read the full [Privacy Policy](/privacy/).
+Snippetry does not collect, transmit, or have access to any of your data. Read the full [Privacy Policy]({{ '/privacy/' | relative_url }}).
